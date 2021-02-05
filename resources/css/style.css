@@ -34,3 +34,13 @@ p {
 .copyright {
     text-align: right;
 }
+
+/*Jumbotron*/
+.jumbotron video {
+    margin: 30px auto;
+}
+
+/*Banner*/
+.banner img {
+    margin: 20px auto;
+}
